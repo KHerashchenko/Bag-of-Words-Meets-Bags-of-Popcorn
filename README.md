@@ -3,4 +3,5 @@ My second Kaggle competition.
 
 This is my second try in Kaggle competitions. The aim of the competition is to create model for sentiment analysis of movie reviews. Link: https://www.kaggle.com/c/word2vec-nlp-tutorial
 
-In this project I am comparing SVM, NaiveBayes, RandomForest, KNN and LogReg for NLP.
+In this project I am comparing SVM, NaiveBayes, RandomForest, KNN and LogReg for NLP. This submission scored 0.82464 on test data.
+You can take required data on Kaggle.
